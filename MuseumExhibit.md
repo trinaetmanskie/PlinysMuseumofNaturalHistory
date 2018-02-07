@@ -2,6 +2,12 @@
 
 > *Pliny the Elder (Gaius Plinius Secundus) was a Roman savant and author who lived from AD 23 to AD 79 (The Editors of Encyclopaedia Britannica, b, 2017). He wrote the celebrated Natural History, which is the first scientific encylcopaedia, which discusses astronomy, geography, zoology and botany (The Editors of Encyclopaedia, a, 2016). Pliny served in the German army before returning Rome and studying law (The Editors of Encyclopaedia, a, 2016). Pliny the Elder’s work and studies were continued by his nephew, Pliny the Younger.*
 
+## About Us
+
+Steven Harper is the President of Pliny’s Natural History Museum. He worked as the curator for over a decade before becoming the president of the museum in 1943. 
+
+***Follow Us on Twitter!***
+
 ### Hours of Operation
 Monday 5:00am-10:00pm
 Tuesday 5:00am-10:00pm
