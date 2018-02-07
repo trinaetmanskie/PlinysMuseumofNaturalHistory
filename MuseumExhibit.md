@@ -6,9 +6,7 @@
 
 Steven Harper is the President of Pliny’s Natural History Museum. He worked as the curator for over a decade before becoming the president of the museum in 1943. 
 
-***Follow Us on Twitter!***
-
-[Twitter](https://twitter.com/BottyMcBotfac3)
+***Follow Us on [Twitter!](https://twitter.com/BottyMcBotfac3)*** 
 
 ### Hours of Operation
 Monday 5:00am-10:00pm
