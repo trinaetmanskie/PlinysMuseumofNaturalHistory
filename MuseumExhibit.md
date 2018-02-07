@@ -30,7 +30,7 @@ Pliny’s Natural History Museum welcomes over 2.6 billion visitors each year to
 
 Pliny's legacy has continued on past his main work, *Natural History*. This museum looks to incoportate Pliny's knowledge in a modern fashion. Designed for family fun these 4 separate exhibits allow for audiences to examine Pliny's work in a hands on experience.
 
-## Pliny’s Zoological Hall
+## Pliny’s [Zoological Hall](https://trinaetmanskie.github.io/PlinysMuseumofNaturalHistory/test)
 
 This hall explores Pliny’s innovative studies on the evolution of the world’s creatures.
 
