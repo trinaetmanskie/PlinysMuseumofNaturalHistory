@@ -12,14 +12,20 @@ Steven Harper is the President of Pliny’s Natural History Museum. He worked as
 
 ### Hours of Operation
 Monday 5:00am-10:00pm
+
 Tuesday 5:00am-10:00pm
+
 Wednesday 5:00am-10:00pm
+
 Thursday 5:00am-10:00pm
+
 Friday 5:00am -
+
 Saturday Open 24 hours
+
 Sunday Closes at Midnight
 
-*In order to full appreciate and understand Pliny's work we are committed to bringing you a full service museum that is open 24 hours every weekend.*
+*In order to full appreciate and understand Pliny's work we are committed to bringing you a full service museum that is open **24 hours** every weekend.*
 
 ## Museum History
 
